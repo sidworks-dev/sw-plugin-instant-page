@@ -1,5 +1,5 @@
 # Sidworks Instant Page for Shopware 6
-This plugin adds Instant Page to the storefront
+This plugin adds [Instant Page](https://github.com/instantpage/instant.page) to the storefront of Shopware 6
 
 ## Installation
 ```bash
