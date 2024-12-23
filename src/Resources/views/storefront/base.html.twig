@@ -1,0 +1,9 @@
+{% sw_extends '@Storefront/storefront/base.html.twig' %}
+
+{% block base_body_inner %}
+    {% block base_body_inner_sidworks_instant_page %}
+        <template data-sidworks-instant-page></template>
+    {% endblock %}
+
+    {{ parent() }}
+{% endblock %}
